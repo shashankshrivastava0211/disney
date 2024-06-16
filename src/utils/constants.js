@@ -1,0 +1,1 @@
+export const USER_URL="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.veryicon.com%2Ficons%2Finternet--web%2Fprejudice%2Fuser-128.html&psig=AOvVaw3ggRYhvSoD5q1Hx2xFSMms&ust=1718637551661000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi09fi14IYDFQAAAAAdAAAAABAP"
